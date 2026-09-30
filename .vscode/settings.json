@@ -1,0 +1,49 @@
+{
+    "editor.rulers": [90, 120],
+	"editor.wordWrapColumn": 120,
+
+	"[git-commit]": {
+		"editor.rulers": [50]
+	},
+
+    "python.analysis.typeCheckingMode": "standard",
+
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+
+    "cSpell.language": "en,de-DE",
+    "cSpell.words": [
+        "axvline",
+        "Clanker",
+        "demcon",
+        "DPTI",
+        "DPTISPTI",
+        "Einthoven",
+        "figsize",
+        "finapres",
+        "fontsize",
+        "incisura",
+        "ipyfilechooser",
+        "ipykernel",
+        "ipympl",
+        "linestyle",
+        "LVET",
+        "matplotlib",
+        "minorticks",
+        "novascope",
+        "physiocal",
+        "Pleth",
+        "pycache",
+        "sharex",
+        "SPTI",
+        "suptitle",
+        "SVRI",
+        "textcoords",
+        "TPRI",
+        "venv",
+        "xlabel",
+        "xycoords",
+        "xytext",
+        "ylabel",
+        "zorder"
+    ]
+}

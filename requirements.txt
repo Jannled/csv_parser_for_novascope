@@ -1,0 +1,5 @@
+ipykernel
+ipympl
+ipyfilechooser
+matplotlib
+pandas
